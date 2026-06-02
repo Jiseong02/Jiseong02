@@ -85,15 +85,3 @@
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/pupajusang01@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pupajusang01@gmail.com)
-
-<!-- 추가로 공개하고 싶은 채널이 있으면 아래 주석을 풀고 링크만 바꿔주세요 -->
-<!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username) -->
-<!-- [![Blog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@your-id) -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-id) -->
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jiseong02&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiseong02&layout=compact&theme=default)
