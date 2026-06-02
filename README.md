@@ -1,17 +1,20 @@
 # 나지성 · 백엔드 개발자
 
+[![Email](https://img.shields.io/badge/pupajusang01@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pupajusang01@gmail.com)
+<!-- 차후 연락 채널이 생겼을 때를 대비해 유지 -->
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username) -->
+<!-- [![Blog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@your-id) -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-id) -->
+
+
 - 🧑‍💻 창업팀 **직직직** 백엔드 · 멋쟁이사자처럼 **DAU 14기** 백엔드
 - 🎓 동아대학교 컴퓨터공학과 학사 과정 (2021.03 ~)
-
----
 
 ## 🙋 About Me
 
 작은 성공은 실패 없이도 이룰 수 있지만, **큰 성공은 실패 없이 오지 않습니다**. <br>
 실패하지 않는 것보다 중요한 것은 **실패로부터 배우는 것**입니다. <br>
 **끈기와 긍정, 무한한 배움의 자세**로 임하는 주니어 개발자가 되겠습니다.
-
----
 
 ## 🛠 Tech Stack
 
@@ -39,8 +42,6 @@
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![KT Cloud](https://img.shields.io/badge/KT%20Cloud-FF0000?style=flat-square)
 
----
-
 ## 💼 Experience
 
 | 기간 | 활동 |
@@ -51,8 +52,6 @@
 | 2024.09 ~ 2025.03 | **GDG (Google Developer Group)** 멤버 |
 | 2022.06 ~ 2023.12 | 육군 병장 만기 전역 |
 | 2021.09 ~ 2022.06 | **CPU** 동아리 멤버 |
-
----
 
 ## 📂 Projects
 
@@ -65,8 +64,6 @@
 | 2025.02 ~ 2025.03 | 📞 **Poco** — 공황장애 대처용 LLM 통화 상담 앱 | `Spring Boot` `MongoDB Atlas` `GCP (Vertex AI·TTS·STT)` | 백엔드 |
 | 2024.11 ~ 2025.01 | 🖥 **온프레미스 홈 서버 구축** | `Docker` `Grafana` `Prometheus` `Loki` `Ubuntu` | 개인 |
 | 2024.11 | 🌳 **Parkpaku** — 도심 녹지 방문·산책 유도 앱 (해커톤) | `Spring Boot` | 백엔드 |
-
----
 
 ## 🏆 Awards & Achievements
 
@@ -81,8 +78,6 @@
 | 2024.11 | 2024 동아 해커톤 | 🥇 최우수상 (1등) |
 | 2022.08 | 2022 지역현안해결 대학수업지원 프로젝트 | 🥇 부산시장상 / 최우수상 (1등) |
 | 2021.11 | 제3회 동아대학생 코딩 경진대회 DUCC 2021 | 🥈 최우수상 (공동 2등) |
-
----
 
 ## 📫 Contact Me
 
