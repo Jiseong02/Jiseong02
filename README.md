@@ -57,8 +57,8 @@
 
 | 기간 | 프로젝트 | 기술 스택 | 역할 |
 | --- | --- | --- | --- |
-| 2026.03 ~ 현재 | 🗺 **지도 기반 외근 도우미** (졸업 작품) | `Node.js` `PostgreSQL` | 팀장 |
-| 2025.09 ~ 현재 | 🤖 **직직직** — AI 기반 건설 인력 매칭 서비스 | `Spring Boot` `MySQL` `Redis` `Nginx` `AWS` | 백엔드·PM |
+| 2026.03 ~ 현재 | 🗺 **지도 기반 외근 도우미** (졸업 작품) | `React Native` `Vercel` `Expo EAS` `'Kakao Maps` | PM·프론트 |
+| 2025.09 ~ 현재 | 🤖 **직직직** — AI 기반 건설 인력 매칭 서비스 | `Spring Boot` `MySQL` `Redis` `Nginx` `AWS` `Kakao Maps` | 백엔드·PM |
 | 2025.03 ~ 2025.06 | ⚡ **가상발전소(VPP) 서비스** (중개사업자용) | `Spring Boot` `MySQL` `KT Cloud` | 백엔드 |
 | 2025.03 | ☸️ **쿠버네티스 클라우드 클러스터 구축** | `Kubernetes` `KT Cloud` | 개인 |
 | 2025.02 ~ 2025.03 | 📞 **Poco** — 공황장애 대처용 LLM 통화 상담 앱 | `Spring Boot` `MongoDB Atlas` `GCP (Vertex AI·TTS·STT)` | 백엔드 |
