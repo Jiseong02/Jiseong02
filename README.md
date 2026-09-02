@@ -7,7 +7,7 @@
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-id) -->
 
 
-- 🧑‍💻 창업팀 **직직직** 백엔드 팀장·PM · 멋쟁이사자처럼 **DAU 14기** 백엔드 팀장
+- 🧑‍💻 창업팀 **직직직** 백엔드 팀장·PM · 멋쟁이사자처럼 **DAU 14기** 안자안자팀 백엔드 팀장
 - 🎓 동아대학교 컴퓨터공학과 학사 과정 (2021.03 ~) · 학점 3.93 / 4.5
 
 ## 🙋 About Me
